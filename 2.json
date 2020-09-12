@@ -1,0 +1,15 @@
+{
+  "tvshows_list": [
+    { "title":"",
+      "year":"",
+      "tmdb_id":"",
+      "seasons_list": [
+        {
+          "season": "1",
+          "link": "FILE 4"
+        }
+      ]
+    } 
+  ]
+}
+    
