@@ -5,7 +5,7 @@
   "menu": [
     {
       "title": "Anime",
-      "link": "https://github.com/m2asp/avcloud/blob/master/2.json",
+      "link": "https://raw.githubusercontent.com/m2asp/avcloud/master/2.json",
       "thumbnail": ""
     },
     {
