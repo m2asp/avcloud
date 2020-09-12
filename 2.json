@@ -1,14 +1,21 @@
 {
-  "tvshows_list": [
-    { "title":"Video Girl Ai",
-      "year":"1992",
-      "tmdb_id":"",
-      "seasons_list": [
-        {
-          "season": "1",
-          "link": "https://raw.githubusercontent.com/m2asp/avcloud/master/3.json"
-        }
-      ]
-    } 
-  ]
+    "menu": [
+      {
+      
+        "title": "Video Girl Ai",
+    
+        "year": "",
+        "tmdb_id": "",
+        
+        "url": "https://raw.githubusercontent.com/m2asp/avcloud/master/3.json"
+      },
+      {
+        "title": "Pat, la ragazza del baseball",
+       
+        "year": "",
+        "tmdb_id": "",
+        
+        "url": "https://raw.githubusercontent.com/m2asp/avcloud/master/4.json"
+      },
+]
 }
