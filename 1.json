@@ -1,0 +1,17 @@
+{
+  "channel_name": "AVCloud",
+  "fanart": "https://github.com/m2asp/avcloud/blob/master/avcloud.png",
+  "thumbnail": "https://github.com/m2asp/avcloud/blob/master/avcloud.png",
+  "menu": [
+    {
+      "title": "",
+      "link": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "",
+      "link": "",
+      "thumbnail": ""
+    }
+  ]
+}
