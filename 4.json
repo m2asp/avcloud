@@ -1,0 +1,23 @@
+{
+	"episodes_list": [
+		{
+		   "number": "1x01",
+		   "title": "Episodio 01",
+		   "links": [
+			   {
+				"url": "https://akvideo.stream/video/lmg9f14b427u"
+			   }
+			]
+		},
+		{
+			"number": "1x02",
+			"title": "Episodio 02",
+			"links": [
+				{
+				 "url": "https://akvideo.stream/video/i27vbfcf1ts6"
+				}
+			 ]
+		}
+
+	  ]
+}
