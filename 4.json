@@ -10,7 +10,7 @@
 			]
 		},
 		{
-			"number": "1x02",
+			
 			"title": "Episodio 02",
 			"links": [
 				{
@@ -19,7 +19,7 @@
 			 ]
 		},
 		{
-			"number": "1x03",
+			
 			"title": "Episodio 03",
 			"links": [
 				{
@@ -28,7 +28,7 @@
 			  ]
 		},
 		{
-			"number": "1x04",
+			
 			"title": "Episodio 04",
 			"links": [
 				{
@@ -37,7 +37,7 @@
 			  ]
 		},
 		{
-			"number": "1x05",
+			
 			"title": "Episodio 05",
 			"links": [
 				{
@@ -46,7 +46,7 @@
 			  ]
 		},
 		{
-			"number": "1x06",
+			
 			"title": "Episodio 06",
 			"links": [
 				{
@@ -55,7 +55,7 @@
 			  ]
 		},
 		{
-			"number": "1x07",
+			
 			"title": "Episodio 07",
 			"links": [
 				{
@@ -64,7 +64,7 @@
 			  ]
 		},
 		{
-			"number": "1x08",
+			
 			"title": "Episodio 08",
 			"links": [
 				{
@@ -73,11 +73,38 @@
 			  ]
 		},
 		{
-			"number": "1x09",
+			
 			"title": "Episodio 09",
 			"links": [
 				{
 				 "url": "https://akvi.club/embed-ceadfefua9me.html"
+				}
+			  ]
+		},
+		{
+			
+			"title": "Episodio 10",
+			"links": [
+				{
+				 "url": "https://akvi.club/embed-e4fk87dtcn6b.html"
+				}
+			  ]
+		},
+		{
+			
+			"title": "Episodio 11",
+			"links": [
+				{
+				 "url": "https://akvi.club/embed-oofllqad71co.html"
+				}
+			  ]
+		},
+		{
+			
+			"title": "Episodio 12",
+			"links": [
+				{
+				 "url": "https://akvi.club/embed-4930naobbk7c.html"
 				}
 			  ]
 		}
