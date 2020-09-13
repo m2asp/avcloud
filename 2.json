@@ -12,12 +12,12 @@
         "url": "https://raw.githubusercontent.com/m2asp/avcloud/master/3.json"
       },
       {
-        "title": "Pat la ragazza del baseball",
+        "title": "Mademoiselle Anne",
        
-        "year": "",
+        "year": "1978",
         "tmdb_id": "",
-         "fanart": "https://cdn.myanimelist.net/images/anime/11/29000.jpg", 
-         "thumbnail": "https://cdn.myanimelist.net/images/anime/11/29000.jpg",
+         "fanart": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx3335-Cd9J0laC4joR.png", 
+         "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx3335-Cd9J0laC4joR.png",
         "url": "https://raw.githubusercontent.com/m2asp/avcloud/master/4.json"
       }
 ]
