@@ -6,6 +6,8 @@
     
         "year": "",
         "tmdb_id": "",
+          "fanart": "https://cdn.myanimelist.net/images/anime/2/22130.jpg", 
+         "thumbnail": "https://cdn.myanimelist.net/images/anime/2/22130.jpg",
         
         "url": "https://raw.githubusercontent.com/m2asp/avcloud/master/3.json"
       },
