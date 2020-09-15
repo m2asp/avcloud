@@ -1,1 +1,49 @@
-
+{
+	"episodes_list": [
+		{
+		   "number": "",
+		   "title": "Episodio 01",
+		   "links": [
+			   {
+				"url": "https://akvideo.stream/video/uk90og0rzvnf"
+			   }
+			]
+		 },
+    {
+		   "number": "",
+		   "title": "Episodio 02",
+		   "links": [
+			   {
+				"url": "https://akvideo.stream/video/nqf44zczutw5"
+			   }
+			]
+		 },
+     {
+		   "number": "",
+		   "title": "Episodio 03",
+		   "links": [
+			   {
+				"url": "https://akvideo.stream/video/uw895l6tnpw9"
+			   }
+			]
+		 },
+    {
+		   "number": "",
+		   "title": "Episodio 04",
+		   "links": [
+			   {
+				"url": "https://akvideo.stream/video/oazcf3cg79u6"
+			   }
+			]
+		 },
+    {
+		   "number": "",
+		   "title": "Episodio 05",
+		   "links": [
+			   {
+				"url": "https://akvideo.stream/video/9cdzgc77i1ip"
+			   }
+			]
+		 }
+    ]
+}
