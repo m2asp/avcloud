@@ -1,5 +1,16 @@
 {
     "menu": [
+        {
+      
+        "title": "Blue Noah",
+    
+        "year": "",
+        "tmdb_id": "",
+          "fanart": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5763.jpg", 
+         "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5763.jpg",
+        
+        "url": "https://raw.githubusercontent.com/m2asp/avcloud/master/10.json"
+      },
       {
       
         "title": "Capitan Futuro",
