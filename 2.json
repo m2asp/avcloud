@@ -91,6 +91,15 @@
          "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3878.jpg",
         "url": "https://raw.githubusercontent.com/m2asp/avcloud/master/6.json"
       },
+        {
+        "title": "L'incantevole Creamy",
+       
+        "year": "",
+        "tmdb_id": "",
+         "fanart": "https://cdn.myanimelist.net/images/anime/7/16760.jpg", 
+         "thumbnail": "https://cdn.myanimelist.net/images/anime/7/16760.jpg",
+        "url": "https://raw.githubusercontent.com/m2asp/avcloud/master/15.json"
+      }, 
       {
         "title": "Mademoiselle Anne",
        
