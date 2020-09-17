@@ -11,6 +11,17 @@
         
         "url": "https://raw.githubusercontent.com/m2asp/avcloud/master/10.json"
       },
+         {
+      
+        "title": "Bryger",
+    
+        "year": "",
+        "tmdb_id": "",
+          "fanart": "https://cdn.myanimelist.net/images/anime/1640/96448.jpg", 
+         "thumbnail": "https://cdn.myanimelist.net/images/anime/1640/96448.jpg",
+        
+        "url": "https://raw.githubusercontent.com/m2asp/avcloud/master/14.json"
+      },
       {
       
         "title": "Capitan Futuro",
