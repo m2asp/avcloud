@@ -39,8 +39,8 @@
     
         "year": "",
         "tmdb_id": "",
-          "fanart": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4411.jpg", 
-         "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4411.jpg",
+          "fanart": "https://cdn-eu.anidb.net/images/main/157599.jpg", 
+         "thumbnail": "https://cdn-eu.anidb.net/images/main/157599.jpg",
         
         "url": "https://raw.githubusercontent.com/m2asp/avcloud/master/11.json"
       },
@@ -105,8 +105,8 @@
        
         "year": "",
         "tmdb_id": "",
-         "fanart": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3878.jpg", 
-         "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3878.jpg",
+         "fanart": "https://cdn-eu.anidb.net/images/main/85768.jpg", 
+         "thumbnail": "https://cdn-eu.anidb.net/images/main/85768.jpg",
         "url": "https://raw.githubusercontent.com/m2asp/avcloud/master/6.json"
       },
         {
