@@ -1,5 +1,16 @@
 {
     "menu": [
+         {
+      
+        "title": "Babil Junior",
+    
+        "year": "",
+        "tmdb_id": "",
+          "fanart": "https://cdn.myanimelist.net/images/anime/13/75707.jpg", 
+         "thumbnail": "https://cdn.myanimelist.net/images/anime/13/75707.jpg",
+        
+        "url": "https://raw.githubusercontent.com/m2asp/avcloud/master/28.json"
+      },
         {
       
         "title": "Blue Noah",
