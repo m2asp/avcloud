@@ -272,7 +272,15 @@
          "thumbnail": "https://cdn-eu.anidb.net/images/main/225883.jpg",
         "url": "https://raw.githubusercontent.com/m2asp/avcloud/master/25.json"
       },
-        
+        {
+        "title": "Mila e Shiro",
+       
+        "year": "",
+        "tmdb_id": "",
+         "fanart": "https://cdn-eu.anidb.net/images/main/153911.jpg", 
+         "thumbnail": "https://cdn-eu.anidb.net/images/main/153911.jpg",
+        "url": "https://raw.githubusercontent.com/m2asp/avcloud/master/36.json"
+      },
          {
       
         "title": "Mimì e la nazionale di pallavolo",
