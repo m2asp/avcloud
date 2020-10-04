@@ -404,8 +404,8 @@
        
         "year": "",
         "tmdb_id": "",
-         "fanart": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1537.jpg", 
-         "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1537.jpg",
+         "fanart": "https://cdn-eu.anidb.net/images/main/85871.jpg", 
+         "thumbnail": "https://cdn-eu.anidb.net/images/main/85871.jpg",
         "url": "https://raw.githubusercontent.com/m2asp/avcloud/master/23.json"
       },
          {
