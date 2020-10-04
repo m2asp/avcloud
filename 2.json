@@ -398,6 +398,15 @@
          "fanart": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1537.jpg", 
          "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1537.jpg",
         "url": "https://raw.githubusercontent.com/m2asp/avcloud/master/23.json"
+      },
+         {
+        "title": "Sandy dai mille colori",
+       
+        "year": "",
+        "tmdb_id": "",
+         "fanart": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx3660-YeCzkQL20L5O.png", 
+         "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx3660-YeCzkQL20L5O.png",
+        "url": "https://raw.githubusercontent.com/m2asp/avcloud/master/44.json"
       }
         
 ]
