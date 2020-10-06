@@ -35,7 +35,7 @@
       },
          {
       
-        "title": "Astrorobot Contatto Ypsilon",
+        "title": "Astro Robot contatto Ypsilon",
     
         "year": "",
         "tmdb_id": "",
@@ -112,7 +112,7 @@
       },
           {
       
-        "title": "Caro Fratello",
+        "title": "Caro fratello",
     
         "year": "",
         "tmdb_id": "",
@@ -325,6 +325,15 @@
          "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b3819-jlc3y5Nz90Sz.png",
         "url": "https://raw.githubusercontent.com/m2asp/avcloud/master/42.json"
       },
+         {
+        "title": "Jeeg robot d'acciaio",
+       
+        "year": "",
+        "tmdb_id": "",
+         "fanart": "https://cdn.myanimelist.net/images/anime/1406/92623.jpg", 
+         "thumbnail": "https://cdn.myanimelist.net/images/anime/1406/92623.jpg",
+        "url": "https://raw.githubusercontent.com/m2asp/avcloud/master/55.json"
+      },
         {
         "title": "Jenny la tennista",
        
@@ -499,7 +508,7 @@
         "url": "https://raw.githubusercontent.com/m2asp/avcloud/master/47.json"
       },
          {
-        "title": "Una Miss Scacciafantasmi",
+        "title": "Una miss scacciafantasmi",
        
         "year": "",
         "tmdb_id": "",
